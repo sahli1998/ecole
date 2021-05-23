@@ -1,0 +1,28 @@
+#admin{
+    width: 350px;
+    height: 250px;
+    position:absolute;
+    top:60px;
+    left:600px;
+}
+#form{
+    position:absolute;
+    top:300px;
+    left:580px
+}
+
+
+#carthage{
+    width:250px;
+    height:130px;
+    position:absolute;
+    right:10px;
+    top : 20px
+}
+#ecole{
+    width:200px;
+    height:100px;
+    position:absolute;
+    left:50px;
+    top : 20px
+}
